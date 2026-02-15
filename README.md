@@ -2,6 +2,7 @@
 
 Below is the repository folder and file layout with short comments for key files.
 
+```text
 stripe-subscription-integration/
 ├─ client/                     # React + Vite frontend
 │  ├─ public/
@@ -28,9 +29,12 @@ stripe-subscription-integration/
 │  └─ .env                     # STRIPE_SECRET_KEY (keep out of VCS)
 └─ README.md                   # This file (project overview & structure)
 
+```
+
 Notes:
 - Keep `server/.env` private; do not commit to source control.
 - Frontend environment variables must start with `VITE_` to be exposed to the client.
+---
 
 ## 🏗️ Project Architecture
 
