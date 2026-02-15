@@ -124,7 +124,7 @@ STRIPE_SECRET_KEY=sk_test_51T0MM1R2... (Your Secret Key)
 ## 🔗 Useful Links
 
 * [Stripe Dashboard](https://dashboard.stripe.com/)
-* [Stripe API Documentation](https://stripe.com/docs/api)
+* [Stripe Documentation](https://docs.stripe.com/checkout/quickstart)
 * [Video Tutorial Reference 1](https://www.youtube.com/watch?v=tqt9Vo7CXWM)
 * [Video Tutorial Reference 2](https://youtu.be/15l6QTz1T4o?si=uEfrg8Jw5LUhqrpz)
 
